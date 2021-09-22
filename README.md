@@ -116,6 +116,3 @@ An example request is shown below, and the appropriate parameters of this reques
 
 Consult the GIACT test guidelines for a colleciton of the users and their relevant data that can be used in the sandbox environment.
 
-### Who do I talk to?
-
-- Repo owner or admin - Mark Garcia (msgarcia@collni.edu)
