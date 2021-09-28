@@ -31,7 +31,7 @@ Your .env file should be set up in the following manner:
 
 GIACT_UN=<USERNAME>
 GIACT_PW=<PASSWORD>
-GIACT_ENV=SANDBOX
+API_URL=https://...
 
 ```
 
@@ -44,7 +44,7 @@ Where `<USERNAME>` and `<PASSWORD>` are replaced with the credentials that you u
 
 GIACT_UN=markymark
 GIACT_PW=HelloW0rld
-GIACT_ENV=SANDBOX
+API_URL=https://...
 
 ```
 
@@ -53,11 +53,10 @@ Additionally, for ease of use, you could also set up your .env file in the follo
 
 GIACT_UN=<SBUSERNAME>
 GIACT_PW=<SBPWORD>
-GIACT_ENV=SANDBOX
+API_URL=<URL>
 
 #GIACT_UN=<PRODUSERNAME>
 #GIACT_PW=<PRODPWORD>
-#GIACT_ENV=PRODUCTION
 
 ```
 The `#` sets the PROD values in this example as comments. In this manner, you can quickly jump between PROD and SANDBOX while testing.
@@ -118,4 +117,4 @@ Consult the GIACT test guidelines for a colleciton of the users and their releva
 
 ### Who do I talk to?
 
-- Repo owner or admin - Mark Garcia (msgarcia@collni.edu)
+- Repo owner or admin - Mark Garcia (mark.sean.garcia@gmail.com)
